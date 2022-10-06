@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "one",
+        "position": {"x": 100, "y": 10}
+    },
+
+    {
+        "id": 2,
+        "name": "two",
+        "position": {"x": 10, "y": 200}
+    },
+
+    {
+        "id": 3,
+        "name": "three",
+        "position": {"x": 500, "y": 300}
+    },
+
+    {
+        "id": 4,
+        "name": "four",
+        "position": {"x": 60, "y": 250}
+    },
+
+    {
+        "id": 5,
+        "name": "five",
+        "position": {"x": 600, "y": 500}
+    }
+]
